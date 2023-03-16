@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://jigmee:<jigmee>@cluster0.1xic2th.mongodb.net/?retryWrites=true&w=majority
+      database: microservices
